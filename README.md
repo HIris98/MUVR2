@@ -36,7 +36,7 @@ install_github('MetaboComp/MUVR2')
 In addition to functions relevant for crossvalidated, predictive multivariate modelling, the MUVR2 package also provides data to accurately reproduce figures from the original *Shi et al* paper (below).
 
 ## References
-- *Yan Y, Schillemans T, Skantze V, Brunius C. Adjusting for covariates and assessing modeling fitness in machine learning using MUVR2. Bioinformatics Advances. 2024, 4(1), vbae051*
+- *Yan Y, Schillemans T, Skantze V, Brunius C. Adjusting for covariates and assessing modeling fitness in machine learning using MUVR2. Bioinformatics Advances. 2024, 4(1), vbae051.*
 - *Shi L, Westerhuis JA, Rosén J, Landberg R, Brunius C. Variable selection and validation in multivariate modelling. Bioinformatics. 2019, 35(6), 972–80.*
 - *Filzmoser P, Liebmann B, Varmuza K. Repeated double cross validation. Journal of Chemometrics. 2009, 23(4), 160-171.*
 - *Westerhuis JA, Hoefsloot HCJ, Smit S, Vis DJ, Smilde AK, Velzen EJJ, Duijnhoven JPM, Dorsten FA. Assessment of PLSDA cross validation. Metabolomics. 2008, 4(1), 81-89.*

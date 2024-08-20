@@ -2,21 +2,22 @@
 **Multivariate methods with Unbiased Variable selection in R**  
 PhD candidate Yingxiao Yan <yingxiao@chalmers.se>  
 Associate Professor Carl Brunius  <carl.brunius@chalmers.se>  
-Department of Life Sciences
+Department of Life Sciences,
 Chalmers University of Technology www.chalmer.se
 
 ## General description
 The MUVR package allows for predictive multivariate modelling with minimally biased variable selection incorporated into a repeated double cross-validation framework. The MUVR procedure simultaneously produces both minimal-optimal and all-relevant variable selections.
-The MUVR2 package is developed with new functionalities based on the MUVR package
 
-An easy-to-follow tutorial on how to use the MUVR package for classification, regression and multilevel analysis can be found at this repository at [inst/Tutorial/MUVR_Tutorial.docx] (https://github.com/MetaboComp/MUVR2/blob/master/inst/Tutorial/MUVR2_tutorial.pdf)
+The MUVR2 package is developed with new functionalities based on the MUVR package.
+
+An easy-to-follow tutorial on how to use the MUVR package for classification, regression and multilevel analysis can be found at this repository at [inst/Tutorial/MUVR_Tutorial.docx](https://github.com/MetaboComp/MUVR2/blob/master/inst/Tutorial/MUVR2_tutorial.pdf)
 
 In brief, MUVR2 proved the following functionality:
-- Types: Classification, regression and multilevel
-- Model cores: PLS,  Random Forest, Elastic net
-- Validation: Repeated double cross-validaiton (rdCV; Westerhuis et al 2008, Filzmoser et al 2009)
+- Types: Classification, regression and multilevel.
+- Model cores: PLS,  Random Forest, Elastic net.
+- Validation: Repeated double cross-validaiton (rdCV; Westerhuis et al 2008, Filzmoser et al 2009).
 - Variable selection: Recursive feature elimination embedded in the rdCV loop.
-- Resampling tests and permutation tests: Assessment of modelling fitnness and overfitting
+- Resampling tests and permutation tests: Assessment of modelling fitnness and overfitting.
 
 ## Installation
 - You will need to have installed R (https://www.r-project.org/)
